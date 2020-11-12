@@ -13,3 +13,9 @@ end
 get '/shotgun' do
   "If I can see this shotgun is set up correctly #{Time.now}"
 end
+
+get '/cat' do
+  "<div>
+  <img style='border: dashed red;', src='http://bit.ly/1eze8aE'>
+  </div>"
+end
