@@ -11,5 +11,5 @@ get '/secret' do
 end
 
 get '/shotgun' do
-  'If I can see this shotgun is set up correctly'
+  "If I can see this shotgun is set up correctly #{Time.now}"
 end
