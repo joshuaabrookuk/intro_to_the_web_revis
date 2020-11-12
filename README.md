@@ -3,7 +3,7 @@
 Clone this repo and run `bundle` to install gems
 Run `ruby app.rb` from the terminal
 Visit 'http://localhost:4567/ to view the project'
-
+`ctrl-c` to shutdown the app
 
 
 If you need to kill the server type
