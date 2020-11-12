@@ -1,7 +1,8 @@
 # battle_revis
 
 Clone this repo and run `bundle` to install gems
-Run `ruby app.rb` from the terminal
+Run `ruby app.rb` from the terminal for a static web page or
+Run `shotgun app.rb -p 4567` from the terminal for a dinamic webpage
 Visit 'http://localhost:4567/ to view the project'
 `ctrl-c` to shutdown the app
 
