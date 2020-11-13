@@ -15,7 +15,5 @@ get '/shotgun' do
 end
 
 get '/cat' do
-  "<div>
-  <img style='border: dashed red;', src='http://bit.ly/1eze8aE'>
-  </div>"
+  erb(:index)
 end
