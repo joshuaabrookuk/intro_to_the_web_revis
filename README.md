@@ -49,3 +49,4 @@ Workout:
 12. fill_in 'gender', with: 'Prefer not to say'
 13. fill_in 'hometown', with: 'The Moon'
 14. fill_in 'favourite beverage', with: 'Moon Juice'
+15. click_button 'Submit'
