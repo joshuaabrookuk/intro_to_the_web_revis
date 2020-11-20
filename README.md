@@ -1,4 +1,4 @@
-# battle_revis
+# intro_to_the_web_revis
 
 Clone this repo and run `bundle` to install gems
 Run `ruby app.rb` from the terminal for a static web page or
